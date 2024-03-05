@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TodoApi", "TodoApi\TodoApi.csproj", "{14278528-CFDB-4C0C-89D1-78D299D518E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{970BB682-C9F6-4EC7-BA31-F6D9DF18B59C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14278528-CFDB-4C0C-89D1-78D299D518E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14278528-CFDB-4C0C-89D1-78D299D518E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14278528-CFDB-4C0C-89D1-78D299D518E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14278528-CFDB-4C0C-89D1-78D299D518E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970BB682-C9F6-4EC7-BA31-F6D9DF18B59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970BB682-C9F6-4EC7-BA31-F6D9DF18B59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970BB682-C9F6-4EC7-BA31-F6D9DF18B59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970BB682-C9F6-4EC7-BA31-F6D9DF18B59C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A81D93C-7D67-4E48-A50E-5A79F67F3521}
+	EndGlobalSection
+EndGlobal
